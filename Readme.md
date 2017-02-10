@@ -1,10 +1,9 @@
 #xm视觉包配置说明
 ##Description
 xm_view contains xm_object and xm_people,which you can recognize object or face ,detecting gesture or pose.
-copyrights by reason_W,E-mail:
-charlewander@gmail.com
+E-mail:charlewander@gmail.com
 
-##How to build in Ubuntu 14.5
+##How to build in Ubuntu 14.5 / Ubuntu 16.04
 ###	First:
  保证你的文件路径为英文路径　如　~/Documents		
 ###	Second:
